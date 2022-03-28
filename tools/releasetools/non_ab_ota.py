@@ -220,16 +220,23 @@ else if get_stage("%(bcb_dev)s") == "3/3" then
   # Dump fingerprints
   script.Print("Target: {}".format(target_info.fingerprint))
 
+script.Print("⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄");
+script.Print("⠄⠄⠄⠄⠄⠄⠄⣀⣀⣐⡀⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄");
+script.Print("⠄⠄⢠⠄⣠⣶⣿⣿⣿⠿⠿⣛⣂⣀⣀⡒⠶⣶⣤⣤⣬⣀⡀⠄⢀⠄⠄⠄⠄⠄⠄⠄");
+script.Print("⠄⠄⢀⣾⣿⣿⣿⡟⢡⢾⣿⣿⣿⣿⣿⣿⣶⣌⠻⣿⣿⣿⣿⣷⣦⣄⡀⠄⠄⠄⠄⠄");
+script.Print("⠄⠄⣈⣉⡛⣿⣿⣿⡌⢇⢻⣿⣿⣿⣿⣿⠿⠛⣡⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⠄⠄⠄");
+script.Print("⠄⠺⠟⣉⣴⡿⠛⣩⣾⣎⠳⠿⠛⣋⣩⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠄⠄");
+script.Print("⠄⠄⠄⠘⢋⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠄");
+script.Print("⠄⠄⢀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠄");
+script.Print("⠄⠄⠄⣾⣿⣿⣿⣿⣿AMOG-OS ROM⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⣀");
+script.Print("⠄⠄⠄⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠘⠛");
+script.Print("⠄⠄⠄⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⣀⣀⣠⣤");
+script.Print("⠄⠄⣀⣀⡙⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢛⣩⠤⠾⠄⠛⠋⠉⢉");
+script.Print("⠄⠺⠿⠛⠛⠃⠄⠉⠙⠛⠛⠻⠿⠿⠿⠟⠛⠛⠛⠉⠁⠄⠄⣀⣀⣠⣤⣠⣴⣶⣼⣿");
+
   #Print ASCII
   script.Print("--------------------------------------------------");
-  script.Print("|                    __                          |");
-  script.Print("|        /\  _  _ _ |_   |_ _  _  _| _  _|       |");
-  script.Print("|       /--\(_)_)|_)|__><|_(-`| )(_|(-`(_|       |");
-  script.Print("|                |                               |");
-  script.Print("|                                                |");
-  script.Print("--------------------------------------------------");
-  script.Print("--------------------------------------------------");
-  script.Print("|                  By:-TeamAEX                   |");
+  script.Print("|                  By:-TeamSUS                   |");
   script.Print("--------------------------------------------------");
   script.Print(" ")
   script.AppendExtra("sleep (2);")
